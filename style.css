@@ -1,0 +1,25 @@
+#product{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5px;
+    padding: 10px;
+}
+
+ .card{
+    margin: 10px;
+}
+
+.card-img-top{
+    margin: 25px;
+    align-items: center;
+    width: 235px;
+    height: 196px;
+}
+
+.card-title{
+    font-size: 15px;
+}
+
+.card-text{
+    font-size: 20px;
+}
